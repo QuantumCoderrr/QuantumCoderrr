@@ -127,10 +127,6 @@
 </div>
 </details>
 
-## 💡 Current Projects
-- **Car Safety Analysis**: Python-based group project analyzing safety data. [Check it out here!](https://github.com/QuantumCoderrr/Car_Safety_Analysis)
-- **Credit Card Fraud Detection**: Python based project to showcase fraudulence in credit card scams. [Check it out here!](https://github.com/QuantumCoderrr/Credit-Card-Fraud-Detection)
-
 ## 🤝 Open Source Contributions
 - Contributor to **GSSoC 2024 Extended**.
 - Preparing for **GSoC 2025** in **Web Development** and **Machine Learning** domains.
