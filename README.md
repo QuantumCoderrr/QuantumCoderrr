@@ -133,7 +133,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" width="300" height="180" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" />  
   <img src="https://github-profile-trophy.vercel.app/?username=QuantumCoderrr&theme=darkhub" alt="GitHub Trophies">
 </p>
 
