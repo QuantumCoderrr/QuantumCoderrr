@@ -1,0 +1,31 @@
+name: Generate 3D Contribution Particles
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: QuantumCoderrr
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-3d.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Updated 3D Contribution Particles" || exit 0
+          git push
