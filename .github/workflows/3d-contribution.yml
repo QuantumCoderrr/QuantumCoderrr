@@ -23,9 +23,12 @@ jobs:
             dist/github-contribution-grid-snake-3d.svg
 
       - name: Commit and Push
+        env:
+            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
-          git add -A
-          git commit -m "Updated 3D Contribution Particles" || exit 0
-          git push
+            git config --global user.name "GitHub Actions Bot"
+            git config --global user.email "actions@github.com"
+            git add -A
+            git commit -m "Updated 3D Contribution Particles" || exit 0
+            git push https://QuantumCoderrr:${{ secrets.GH_PAT }}@github.com/QuantumCoderrr/QuantumCoderrr.git
+
