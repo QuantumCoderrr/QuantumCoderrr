@@ -131,15 +131,19 @@
 ## Quick Overview
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> *My GitHub Data:*
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" /> 
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=QuantumCoderrr&theme=darkhub" alt="GitHub Trophies">
 </p>
 
-**<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** <br>
+**<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25" align="center"> Languages I've used most:** <br>
+<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
+</p>
 
 ## 🪀 My 3D GitHub Contribution Calendar
 <p align="center">
