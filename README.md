@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Buddies!+👋;+I+am+Sandip+Ghosh;+Welcome+to+my+Github">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Buddies!+✌🏻;+I+am+Sandip+Ghosh;+Welcome+to+my+Github;+Have+a+look+around!!!">
 </h1>
 <h3 align="center">An aspiring Full Stack Developer & AI/ML Enthusiast | BTech Undergraduate from India</h3>
 
@@ -131,7 +131,7 @@
 ## Quick Overview
 <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> *My GitHub Data:*
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" /> 
 </p>
