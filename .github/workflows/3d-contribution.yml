@@ -2,10 +2,10 @@ name: Generate 3D Contribution Particles
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   push:
     branches:
-      - main  # Change this if your default branch is different
+      - main
 
 jobs:
   generate:
@@ -16,10 +16,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.5.2
+        uses: yoshi389111/github-profile-3d-contrib@main  # Changed from 0.5.2 to main
         with:
           token: ${{ secrets.GH_PAT }}
-          user_name: QuantumCoderrr  # Replace with your GitHub username
+          user_name: QuantumCoderrr  # Replace with your username
 
       - name: Commit and Push
         run: |
