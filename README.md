@@ -137,6 +137,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 
+## 🪀 My 3D GitHub Contribution Calendar
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QuantumCoderrr/QuantumCoderrr/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar">
+</p>
 
 
 
