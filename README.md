@@ -137,8 +137,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 
-## 🪀 My 3D Contributions 
-![3D Contribution Particles](https://raw.githubusercontent.com/QuantumCoderrr/QuantumCoderrr/refs/heads/main/dist/github-contribution-grid-snake-dark.svg)
 
 
 
