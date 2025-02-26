@@ -137,7 +137,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 
-
+<div align="center">
+  <h2> My Contributions 🤩</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/QuantumCoderrr/QuantumCoderrr/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
 
 
 
