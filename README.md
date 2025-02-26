@@ -128,12 +128,19 @@
 - Contributor to **GSSoC 2024 Extended**.
 - Preparing for **GSoC 2025** in **Web Development** and **Machine Learning** domains.
 
-<h2><em>Quick Overview<em></h2>
-<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> <em>My GitHub Data:</em>
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCoderrr" alt="GitHub Streak" width="300" height="180" />  
+## Quick Overview
+<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> *My GitHub Data:*
 
-- **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr's GitHub Stats">
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr's Streak Stats">
+</p>
+
+
+**<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 
