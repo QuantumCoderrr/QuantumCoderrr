@@ -133,12 +133,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelestialCoderrr&theme=gotham" alt="GitHub Streak" width="300" height="180" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumCoderrr&theme=darkhub" alt="GitHub Trophies">
 </p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr's Streak Stats">
-</p>
-
 
 **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
