@@ -1,16 +1,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Buddies!+👋;+I+am+Sandip+Ghosh;+Welcome+to+my+Github">
 </h1>
-<h3 align="center">A Dedicated Full Stack Developer & AI/ML Enthusiast | BTech Undergraduate from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600">
+<h3 align="center">An aspiring Full Stack Developer & AI/ML Enthusiast | BTech Undergraduate from India</h3>
 
 [![Linkedin: Sandip Ghosh](https://img.shields.io/badge/-SandipGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-ghosh/)](https://www.linkedin.com/in/sandip-ghosh/)
 [![GitHub QuantumCoderrr](https://img.shields.io/github/followers/QuantumCoderrr?label=follow&style=social)](https://github.com/QuantumCoderrr)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=bf1dbf&style=flat" alt="QuantumCoderrr" /> </p>
-
+[![Gmail: Sandip Ghosh](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-sandipghosh0801@gmail.com)
+<p> <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=bf1dbf&style=flat" alt="QuantumCoderrr" /> </p>
 
 ## About Me
+<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600">
+
 - 🔭 Currently working on **AI ML**, and **Deep Learning** projects and enhancing my skills in **Backend Development**.
   
 - 🌱 I am focused on advancing my skills in **Full Stack Development** and **AI/ML** frameworks, including **TensorFlow**.
@@ -136,6 +136,8 @@
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
+
+
 
 
 
