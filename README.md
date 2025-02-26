@@ -1,17 +1,14 @@
-<h1 align="center">Hello! I'm Sandip Ghosh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Buddies!+👋;+I+am+Sandip+Ghosh;+Welcome+to+my+Github">
+</h1>
 <h3 align="center">A Dedicated Full Stack Developer & AI/ML Enthusiast | BTech Undergraduate from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=0e75b6&style=flat" alt="QuantumCoderrr" />
-  <img src="https://img.shields.io/github/stars/QuantumCoderrr?style=flat&label=Stars" alt="Stars Count">
-  <img src="https://img.shields.io/github/followers/QuantumCoderrr?style=flat&label=Followers" alt="Followers Count">
-  <!-- Repositories Badge 
-  <img src="https://img.shields.io/github/repos/QuantumCoderrr?style=flat&label=Repositories" alt="Repositories Count">
-  <img src="https://img.shields.io/github/forks/QuantumCoderrr?style=flat&label=Forks" alt="Forks Count">
-  <img src="https://img.shields.io/github/commit-activity/m/QuantumCoderrr?style=flat&label=Commits" alt="Commits Count">
-</p>-->
+[![Linkedin: Sandip Ghosh](https://img.shields.io/badge/-SandipGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-ghosh/)](https://www.linkedin.com/in/sandip-ghosh/)
+[![GitHub QuantumCoderrr](https://img.shields.io/github/followers/QuantumCoderrr?label=follow&style=social)](https://github.com/QuantumCoderrr)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=bf1dbf&style=flat" alt="QuantumCoderrr" /> </p>
+
 
 ## About Me
 - 🔭 Currently working on **AI ML**, and **Deep Learning** projects and enhancing my skills in **Backend Development**.
@@ -131,16 +128,15 @@
 - Contributor to **GSSoC 2024 Extended**.
 - Preparing for **GSoC 2025** in **Web Development** and **Machine Learning** domains.
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuantumCoderrr&show_icons=true&hide_title=true&hide_rank=true&theme=radical" alt="GitHub Stats" width="300" height="180" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCoderrr" alt="GitHub Streak" width="300" height="180" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuantumCoderrr&layout=compact" alt="Top Languages" width="300" height="180" />
-</p>
+<h2><em>Quick Overview<em></h2>
+<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> <em>My GitHub Data:</em>
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderrr&langs_count=10&show_icons=true&theme=gotham" alt="QuantumCoderrr" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCoderrr" alt="GitHub Streak" width="300" height="180" />  
+
+- **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumCoderrr&theme=gotham" alt="QuantumCoderrr" />
+
 
 
 
