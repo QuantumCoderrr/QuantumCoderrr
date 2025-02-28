@@ -15,7 +15,7 @@
   
 - 🌱 I am focused on advancing my skills in **Full Stack Development** and **AI/ML** frameworks, including **TensorFlow**.
 
-- 👯 I recently collaborated on **Car Safety Analysis**, leveraging Python for data visualization and insights.
+- 👯 I recently collaborated on **Customer Segmentation Project**, leveraging Python for data visualization and insights.
 
 - 🤝 I’m open to contributing to **Open Source** projects related to **Web Development** and **Machine Learning**.
 
