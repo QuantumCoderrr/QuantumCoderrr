@@ -11,21 +11,23 @@
 ## About Me
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600">
 
-- 🔭 Currently working on **AI ML**, and **Deep Learning** projects and enhancing my skills in **Backend Development**.
+- 🔭 Currently building **AI/ML-driven** solutions with a focus on **Deep Learning**, while also leading the backend development of a **full-stack AI-powered Trip Planner** project named **Raahi**.
   
-- 🌱 I am focused on advancing my skills in **Full Stack Development** and **AI/ML** frameworks, including **TensorFlow**.
+- 🌱 I am focused on advancing my skills in **Full Stack Development** (PERN & Django stacks) and **AI/ML** frameworks, including **TensorFlow** and **PyTorch**.
 
-- 👯 I recently collaborated on **Customer Segmentation Project**, leveraging Python for data visualization and insights.
+- 👯 Recently collaborated on a **Customer Segmentation** project using Python, data visualization, and clustering techniques to derive marketing insights.
 
-- 🤝 I’m open to contributing to **Open Source** projects related to **Web Development** and **Machine Learning**.
+- 🧠 Working on a mini-research project combining **Fourier Transform-based Super-Resolution** and **AI-Powered Noise Reduction for Medical Imaging** — aiming for innovation that packs a punch.
 
-- 👨‍💻 Explore my portfolio and projects at [Portfolio](https://quantumcoderrr.github.io/Quantfolio/).
+- 🤝 I’m open to contributing to impactful **Open Source** projects in **Web Development**, **Automation**, and **Machine Learning**.
 
-- 💬 Feel free to ask me about **Web Development**, **Machine Learning Integration**, or **Software Architecture** – I'm passionate about sharing my knowledge.
+- 👨‍💻 Explore my personal portfolio: [Quantfolio](https://quantumcoderrr.github.io/Quantfolio/) - built with finesse, designed for impact..
+
+- 💬 Hit me up for anything related to **Backend/API Integration**, **Machine Learning Integration**, or **AI-Powered Web Apps** – love sharing what I learn.e.
 
 - 📫 Get in touch via: **sandipghosh0801@gmail.com**
 
-- ⚡ Fun Fact: **Apart from coding, I’m a culinary enthusiast, always experimenting with new recipes!**
+- ⚡ Fun Fact: When I'm not coding or **optimizing APIs**, I'm in the **kitchen** experimenting like it's my second lab – **chef-coded and caffeinated!**.
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
