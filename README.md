@@ -21,7 +21,7 @@
 
 - 🤝 I’m open to contributing to impactful **Open Source** projects in **Web Development**, **Automation**, and **Machine Learning**.
 
-- 👨‍💻 Explore my personal portfolio: [Quantfolio](https://quantumcoderrr.github.io/Quantfolio/) - built with finesse, designed for impact..
+- 👨‍💻 Explore my personal portfolio: [Quantamania](https://quantumcoderrr.github.io/Quantamania/) - built with finesse, designed for impact..
 
 - 💬 Hit me up for anything related to **Backend/API Integration**, **Machine Learning Integration**, or **AI-Powered Web Apps** – love sharing what I learn.e.
 
