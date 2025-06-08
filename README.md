@@ -11,7 +11,7 @@
 ## About Me
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/29279566/pexels-photo-29279566/free-photo-of-cozy-coding-workspace-with-coffee-mug.jpeg?auto=compress&cs=tinysrgb&w=600">
 
-- 🔭 Currently building **AI/ML-driven** solutions with a focus on **Deep Learning**, while also leading the backend development of a **full-stack AI-powered Trip Planner** project named **Raahi**.
+- 🔭 Currently building **AI/ML-driven** solutions with a focus on **Deep Learning**, while also working on **Full-Stack-Development Projects** 
   
 - 🌱 I am focused on advancing my skills in **Full Stack Development** (PERN & Django stacks) and **AI/ML** frameworks, including **TensorFlow** and **PyTorch**.
 
