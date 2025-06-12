@@ -25,7 +25,7 @@
 
 - 💬 Hit me up for anything related to **Backend/API Integration**, **Machine Learning Integration**, or **AI-Powered Web Apps** – love sharing what I learn.e.
 
-- 📫 Get in touch via: **sandipghosh0801@gmail.com**
+- 📫 Get in touch via: **sandip08.dev@gmail.com**
 
 - ⚡ Fun Fact: When I'm not coding or **optimizing APIs**, I'm in the **kitchen** experimenting like it's my second lab – **chef-coded and caffeinated!**.
 ---
