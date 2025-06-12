@@ -5,7 +5,7 @@
 
 [![Linkedin: Sandip Ghosh](https://img.shields.io/badge/-SandipGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-ghosh/)](https://www.linkedin.com/in/sandip-ghosh/)
 [![GitHub QuantumCoderrr](https://img.shields.io/github/followers/QuantumCoderrr?label=follow&style=social)](https://github.com/QuantumCoderrr)
-[![Gmail: Sandip Ghosh](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-sandipghosh0801@gmail.com)
+[![Gmail: Sandip Ghosh](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-sandip08.dev@gmail.com)
 <p> <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=bf1dbf&style=flat" alt="QuantumCoderrr" /> </p>
 
 ## About Me
