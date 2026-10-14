@@ -1,33 +1,34 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Buddies!+✌🏻;+I+am+Sandip+Ghosh;+Welcome+to+my+Github;+Have+a+look+around!!!">
 </h1>
-<h3 align="center">An Aspiring Full Stack Developer & AI/ML Enthusiast | BTech Undergraduate from India</h3>
+<h3 align="center">MSc Artificial Intelligence Student @ Lancaster University | Applied ML & Computer Vision Enthusiast</h3>
 
 [![Linkedin: Sandip Ghosh](https://img.shields.io/badge/-SandipGhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-ghosh/)](https://www.linkedin.com/in/sandip-ghosh/)
 [![GitHub QuantumCoderrr](https://img.shields.io/github/followers/QuantumCoderrr?label=follow&style=social)](https://github.com/QuantumCoderrr)
-[![Gmail: Sandip Ghosh](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-sandip08.dev@gmail.com)
+[![Gmail: Sandip Ghosh](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sandip08.dev@gmail.com)
 <p> <img src="https://komarev.com/ghpvc/?username=QuantumCoderrr&label=Profile%20views&color=bf1dbf&style=flat" alt="QuantumCoderrr" /> </p>
 
 ## About Me
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/29279566/pexels-photo-29279566/free-photo-of-cozy-coding-workspace-with-coffee-mug.jpeg?auto=compress&cs=tinysrgb&w=600">
 
-- 🔭 Currently building **AI/ML-driven** solutions with a focus on **Deep Learning**, while also working on **Full-Stack-Development Projects** 
-  
-- 🌱 I am focused on advancing my skills in **Full Stack Development** (PERN & Django stacks) and **AI/ML** frameworks, including **TensorFlow** and **PyTorch**.
+- 🔭 Currently pursuing my **MSc in Artificial Intelligence** at **Lancaster University**, building AI/ML-driven solutions with a focus on enterprise applications and **Computer Vision**.
 
-- 👯 Recently collaborated on a **Customer Segmentation** project using Python, data visualization, and clustering techniques to derive marketing insights.
+- 🌱 Enhancing my expertise in evaluating **Small Language Models (SLMs) vs LLMs**, predictive analytics, and deep learning frameworks including **TensorFlow**, **PyTorch**, and **OpenCV**.
 
-- 🧠 Working on a mini-research project combining **Fourier Transform-based Super-Resolution** and **AI-Powered Noise Reduction for Medical Imaging** — aiming for innovation that packs a punch.
+- 👯 Recently built **AttenDrive**, a robust computer vision pipeline, and actively working on industry-backed data science projects solving real-world business bottlenecks.
 
-- 🤝 I’m open to contributing to impactful **Open Source** projects in **Web Development**, **Automation**, and **Machine Learning**.
+- 🧠 Assisting in applied academic research: modelling collective animal behavior using object detection and orientation extraction on high-res drone footage.
 
-- 👨‍💻 Explore my personal portfolio: [Quantamania](https://quantumcoderrr.github.io/Quantamania/) - built with finesse, designed for impact..
+- 🤝 I’m open to contributing to impactful **Open Source** projects and collaborating on **Machine Learning**, **Data Science**, and **AI-Powered** solutions.
 
-- 💬 Hit me up for anything related to **Backend/API Integration**, **Machine Learning Integration**, or **AI-Powered Web Apps** – love sharing what I learn.e.
+- 👨‍💻 Explore my personal portfolio: [Quantamania](https://quantumcoderrr.github.io/Quantamania/) - built with finesse, designed for impact.
+
+- 💬 Hit me up for anything related to **Computer Vision**, **Backend/API Integration**, or transitioning into tech consulting – love sharing what I learn.
 
 - 📫 Get in touch via: **sandip08.dev@gmail.com**
 
-- ⚡ Fun Fact: When I'm not coding or **optimizing APIs**, I'm in the **kitchen** experimenting like it's my second lab – **chef-coded and caffeinated!**.
+- ⚡ Fun Fact: When I'm not coding, tracking algorithms, or hosting college Gaming Nights, I'm in the kitchen experimenting like it's my second lab – chef-coded and caffeinated!
+
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
@@ -165,7 +166,7 @@
   </tr>
 </table>
 
-
+<details>
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -202,9 +203,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/QuantumCoderrr/QuantumCoderrr/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar">
 </p>
-
-
-
-
-
-
